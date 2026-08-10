@@ -1,3 +1,2 @@
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-winotify>=1.1.0
+requests==2.32.4
+beautifulsoup4==4.13.4
