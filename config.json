@@ -1,0 +1,12 @@
+{
+  "check_interval_seconds": 60,
+  "request_timeout_seconds": 15,
+  "open_browser_on_stock": true,
+  "windows_notification": true,
+  "sound_alert": true,
+  "telegram": {
+    "enabled": false,
+    "bot_token": "",
+    "chat_id": ""
+  }
+}
